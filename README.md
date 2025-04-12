@@ -1,8 +1,8 @@
 # Fullstack Developer & Data Scientist
 
 ## Education / Ausbildung
-Fachinformatiker Anwendungsentwicklung
-Data Scientist 
+- Fachinformatiker Anwendungsentwicklung
+- Data Scientist 
 
 ## Work Experience / Arbeitserfahrung
 Praktikum Gisa GmbH - ABAP Entwickler CRM SAP 
