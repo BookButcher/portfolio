@@ -5,7 +5,7 @@
 - Data Scientist 
 
 ## Work Experience / Arbeitserfahrung
-Praktikum Gisa GmbH - ABAP Entwickler CRM SAP 
+- Praktikum Gisa GmbH - ABAP Entwickler CRM SAP 
 
 ### Selbständig 
 - BMW - App Steuerungstechnik WAGO
