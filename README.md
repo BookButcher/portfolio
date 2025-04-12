@@ -1,13 +1,13 @@
 # Fullstack Developer & Data Scientist
 
 ## Education / Ausbildung
-- Fachinformatiker Anwendungsentwicklung
-- Data Scientist 
+- Fachinformatiker Anwendungsentwicklung (24. Monate)
+- Data Scientist (12. Monate)
 
 ## Work Experience / Arbeitserfahrung
-- Praktikum Gisa GmbH - ABAP Entwickler CRM SAP 
+- Praktikum Gisa GmbH - ABAP Entwickler CRM SAP (3. Monate)
 
-### Selbständig 
+### Selbständig (5. Jahre)
 - BMW - App Steuerungstechnik WAGO
 - Deutsche Bahn - Steuerungstechnik
 
@@ -15,7 +15,7 @@
 - Ecommerce Vertrieb 
 - High Sales Vertrieb
 
-### Angestelltenverhätnisse 
+### Angestelltenverhätnisse (6. Jahre)
 - Automatisierungstechnik Schneider GmbH 
 
 ## Development Projects
