@@ -15,8 +15,8 @@ Praktikum Gisa GmbH - ABAP Entwickler CRM SAP
 - Ecommerce Vertrieb 
 - High Sales Vertrieb
 
-### Angestellt
-Automatisierungstechniker 
+### Angestelltenverhätnisse 
+- Automatisierungstechnik Schneider GmbH 
 
 ### Python Projects
 - Voice Assistant
