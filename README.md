@@ -18,6 +18,7 @@ Praktikum Gisa GmbH - ABAP Entwickler CRM SAP
 ### Angestelltenverhätnisse 
 - Automatisierungstechnik Schneider GmbH 
 
+## Development Projects
 ### Python Projects
 - Voice Assistant
 - Automation projects
