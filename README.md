@@ -2,7 +2,7 @@
 
 ## Education / Ausbildung
 - Fachinformatiker Anwendungsentwicklung (24. Monate)
-- Data Scientist (12. Monate)
+- Data Scientist (3. Monate)
 
 ## Work Experience / Arbeitserfahrung
 - Praktikum Gisa GmbH - ABAP Entwickler CRM SAP (3. Monate)
