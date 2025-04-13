@@ -2,8 +2,15 @@
 
 ## Education / Ausbildung
 - Fachinformatiker Anwendungsentwicklung (24. Monate)
-- Data Scientist (3. Monate)
+- Data Scientist, ML & DL Engineering (3. Monate)
 
+## Weiterbildungen
+- Python Bootcamp
+- Fullstack Development Bootcamp
+- SQL Bootcamp
+- Data Science
+- Machine & Deep Learning
+  
 ## Work Experience / Arbeitserfahrung
 - Praktikum Gisa GmbH
 - Business Unit "Enterprise Utilities"
@@ -17,13 +24,6 @@
 
 ### Angestelltenverhätnisse (6. Jahre)
 - Automatisierungstechnik Schneider GmbH
-  
-## Weiterbildungen
-- Python Bootcamp
-- Fullstack Development Bootcamp
-- SQL Bootcamp
-- Data Science
-- Machine & Deep Learning
 
 ## Development Projects
 ### Python Projects
