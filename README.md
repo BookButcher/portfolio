@@ -5,7 +5,9 @@
 - Data Scientist (3. Monate)
 
 ## Work Experience / Arbeitserfahrung
-- Praktikum Gisa GmbH - ABAP Entwickler CRM SAP (3. Monate)
+- Praktikum Gisa GmbH
+- Business Unit "Enterprise Utilities"
+- SAP IS-U, CRM, Entwicklung mit ABAP
 
 ### Selbständig (5. Jahre)
 - BMW - App & Steuerungstechnik WAGO
