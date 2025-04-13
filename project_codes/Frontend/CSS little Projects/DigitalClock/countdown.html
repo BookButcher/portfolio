@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <style>
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background: url("img/christmas.jpg");
+    font-family: 'Mountains of Christmas', cursive;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 16px;
+    font-size: 60px;
+    text-align: center;
+    color: #2b0202;
+}
+
+.clock {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.clock div {
+    margin: 5px;
+    position: relative;
+}
+
+.clock span {
+    width: 150px;
+    height: 110px;
+    background-color:#a01616;
+    color: #fff;
+    letter-spacing: 6px;
+    font-size: 60px;
+    opacity: .8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.clock .text {
+    height: 30px;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #410505;
+    opacity: 0.8;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.clock #ampm {
+    bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background: #0a7232fb;
+}
+  </style>
+
+  <script>
+    // The data/time we want to countdown to
+    var countDownDate = new Date("2022.12.24, 23:59:59").getTime();
+
+    // Run myfunc every second
+    var myfunc = setInterval(function() {
+
+    var now = new Date().getTime();
+    var timeleft = countDownDate - now;
+        
+    // Calculating the days, hours, minutes and seconds left
+    var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+        
+    // Result is output to the specific element
+    document.getElementById("days").innerHTML = days 
+    document.getElementById("hours").innerHTML = hours 
+    document.getElementById("mins").innerHTML = minutes 
+    document.getElementById("secs").innerHTML = seconds 
+        
+    // Display the message when countdown is over
+    if (timeleft < 0) {
+        clearInterval(myfunc);
+        document.getElementById("days").innerHTML = ""
+        document.getElementById("hours").innerHTML = "" 
+        document.getElementById("mins").innerHTML = ""
+        document.getElementById("secs").innerHTML = ""
+        document.getElementById("end").innerHTML = "TIME UP!!";
+    }
+    }, 1000);
+    </script>
+
+  <h2>Merry Christmas</h2>
+  <div class="clock">
+      <div>
+        <span id="days">00</span>
+        <span class="text">Tage</span>
+      </div>
+      <div>
+          <span id="hours">00</span>
+          <span class="text">Stunden</span>
+      </div>
+      <div>
+          <span id="mins">00</span>
+          <span class="text">Minuten</span>
+      </div>
+      <div>
+          <span id="secs">00</span>
+          <span class="text">Sekunden</span>
+      </div>
+      <div>
+        <span class="ampm">AM</span>
+    </div>
+      
+  </div>
+
+</body>
+</html>
