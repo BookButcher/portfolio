@@ -1,4 +1,4 @@
-# Fullstack Developer & Data Scientist
+# Fullstack Developer, ML & DL Engineer 
 
 ## Education / Ausbildung
 - Fachinformatiker Anwendungsentwicklung (24. Monate)
@@ -37,14 +37,17 @@
 - Weather Data API
 - Wather Forecast Dashboard
 
+### Machine Learning Projects
+(coming soon)
+### Deep Learning Projects
+(coming soon)
+
 ### Data Science Projects
 - 911 - Call Visualisation
 - Financial Data Analysis
 
-#### Machine & Deeplearning Projects 
-- Support Vector Machines
-- K Means Clustering
-- NLP Project
+### Java Fullstack Projects
+(coming soon)
 
 ### Fullstack Projects
 - OWN Website
