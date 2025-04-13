@@ -8,15 +8,20 @@
 - Praktikum Gisa GmbH - ABAP Entwickler CRM SAP (3. Monate)
 
 ### Selbständig (5. Jahre)
-- BMW - App Steuerungstechnik WAGO
+- BMW - App & Steuerungstechnik WAGO
 - Deutsche Bahn - Steuerungstechnik
-
-### Selbständig
 - Ecommerce Vertrieb 
 - High Sales Vertrieb
 
 ### Angestelltenverhätnisse (6. Jahre)
-- Automatisierungstechnik Schneider GmbH 
+- Automatisierungstechnik Schneider GmbH
+  
+## Weiterbildungen
+- Python Bootcamp
+- Fullstack Development Bootcamp
+- SQL Bootcamp
+- Data Science
+- Machine & Deep Learning
 
 ## Development Projects
 ### Python Projects
