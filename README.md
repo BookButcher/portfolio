@@ -2,7 +2,7 @@
 
 ## Education / Ausbildung
 - Fachinformatiker Anwendungsentwicklung (24. Monate)
-- Data Scientist, ML & DL Engineering (3. Monate)
+- Data Scientist, ML & DL Engineering, EDUCX (3. Monate)
 
 ## Weiterbildungen
 - Python Bootcamp
