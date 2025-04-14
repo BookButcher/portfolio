@@ -11,7 +11,8 @@
 - Data Science
 - Machine & Deep Learning
   
-## Work Experience / Arbeitserfahrung
+## Work Experience / Arbeitserfahrung 
+### Praktikum (3. Monate)
 - Praktikum Gisa GmbH
 - Business Unit "Enterprise Utilities"
 - SAP IS-U, CRM, Entwicklung mit ABAP
